@@ -4,8 +4,9 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
-      <h1>Hello world!</h1>
+      <Title>Galaxy Chat Soft</Title>
+      <h1>Сайт принадлежит каналу Galaxy Chat Soft</h1>
+      <a href="https://t.me/GalaxyChatSoft">https://t.me/GalaxyChatSoft</a>
       <Counter />
 
     </main>
