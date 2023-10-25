@@ -6,7 +6,7 @@ export default function Home() {
     <main>
       <Title>Galaxy Chat Soft</Title>
       <h1>Сайт принадлежит каналу Galaxy Chat Soft</h1>
-      <a href="https://t.me/GalaxyChatSoft">https://t.me/GalaxyChatSoft</a>
+      <a href="https://t.me/GalaxyChatSoft">https://t.me/GalaxyChatSoft</a> </br>
       <Counter />
 
     </main>
